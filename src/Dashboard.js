@@ -72,7 +72,7 @@ const Dashboard = () => {
 
                 <Summary>
                     <GroupItem
-                        column="Values"
+                        column="Voters"
                         summaryType="sum"
                         showInGroupFooter={false} />
                     <GroupItem
